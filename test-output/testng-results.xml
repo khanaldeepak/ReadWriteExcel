@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31456" started-at="2016-04-07T02:54:10Z" finished-at="2016-04-07T02:54:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31456" started-at="2016-04-07T02:54:10Z" finished-at="2016-04-07T02:54:42Z">
+      <class name="com.page.XcelWork">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.page.XcelWork@463fd068]" name="beforeTest" is-config="true" duration-ms="7056" started-at="2016-04-06T22:54:10Z" finished-at="2016-04-06T22:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="InvalidSignUp()[pri:0, instance:com.page.XcelWork@463fd068]" name="InvalidSignUp" duration-ms="23225" started-at="2016-04-06T22:54:17Z" finished-at="2016-04-06T22:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSignUp -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.page.XcelWork@463fd068]" name="afterTest" is-config="true" duration-ms="1161" started-at="2016-04-06T22:54:41Z" finished-at="2016-04-06T22:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.page.XcelWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
